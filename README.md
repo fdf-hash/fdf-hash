@@ -1,4 +1,4 @@
-### <font face="Helvetica"><center>⚡打工人，打工魂，打工都是人上人⚡<center></font>
+### <center>⚡打工人，打工魂，打工都是人上人⚡<center>
 
 <br/><br/><br/>
 <div align="center"> 
