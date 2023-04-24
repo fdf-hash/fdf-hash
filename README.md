@@ -1,9 +1,9 @@
-### ⚡打工人，打工魂，打工都是人上人⚡
+### <font face="Helvetica"><center>⚡打工人，打工魂，打工都是人上人⚡<center></font>
 
 <br/><br/><br/>
-
+<div align="center"> 
 <image src='./image/2057.gif'/>
-
+</div>
 <!--
 **fdf-hash/fdf-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
