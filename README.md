@@ -2,7 +2,7 @@
 
 <br/><br/><br/>
 <div align="center"> 
-<image src='./image/640.png'/>
+<image src='./img/640.png'/>
 </div>
 <!--
 **fdf-hash/fdf-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
