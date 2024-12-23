@@ -1,5 +1,4 @@
 <div align="center"> 
-<h2>⚡打工人，打工魂，打工都是人上人⚡</h2>
 </div>
 <div align="center"> 
 <image src='./img/640.png'/>
